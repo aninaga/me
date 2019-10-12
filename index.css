@@ -1,0 +1,7 @@
+.grow { transition: all .2s ease-in-out; }
+
+.grow:hover { transform: scale(1.2); }
+
+.grad {
+  background-image: linear-gradient(to right, #373B44, #4286f4);
+}
